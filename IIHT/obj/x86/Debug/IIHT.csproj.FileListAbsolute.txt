@@ -1,0 +1,287 @@
+D:\SONAL\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\SONAL\IIHT\IIHT\bin\Debug\IIHT.pdb
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\SONAL\IIHT\IIHT\bin\Debug\AxInterop.OWC11.dll
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\AxInterop.OWC11.dll
+D:\SONAL\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\AxInterop.OWC11.dll
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\bin\Debug\IIHT.exe
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\bin\Debug\IIHT.pdb
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\bin\Debug\AxInterop.OWC11.dll
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\bin\Debug\IIHT.exe
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\bin\Debug\IIHT.pdb
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+E:\Mumtaz .Net Module\C#.Net\C# Projects\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\8-8-2017\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\SONAL\8-8-2017\IIHT\IIHT\bin\Debug\IIHT.pdb
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\SONAL\8-8-2017\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+D:\SONAL\8-8-2017\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+F:\SONALBHAKTA\IIHT\IIHT\bin\Debug\IIHT.exe.config
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+F:\SONALBHAKTA\IIHT\IIHT\bin\Debug\IIHT.exe
+F:\SONALBHAKTA\IIHT\IIHT\bin\Debug\IIHT.pdb
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SONALBHAKTA\IIHT\IIHT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SONAL\13-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\SONAL\13-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\SONAL\14-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\SONAL\14-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\SONAL\14-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+D:\SONAL\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mumtaz .Net Module\C#.Net\C# Projects\14-08-17\14-08-17\IIHT\IIHT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SONAL\20-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\20-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\SONAL\20-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\SONAL\20-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\SONAL\23-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\23-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\SONAL\23-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\SONAL\23-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+H:\Mumtaz\Mumtaz .Net Module\C#.Net\C# Projects\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmReport.resources
+E:\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+E:\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+E:\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmReport.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+E:\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe.config
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.ResolveComReference.cache
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.exe
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.pdb
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AdmissionDetail.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.BaseForm.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmEmpMaster.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmReport.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.StudentAdmission.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourse.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.CourseDetail.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Form1.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.AddViewUser.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudentAdmission.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Login.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.mdimain.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmModule.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmCourseCategory.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Properties.Resources.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.Search.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.frmStudEnquiry.resources
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\obj\x86\Debug\IIHT.csproj.GenerateResource.Cache
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.exe
+D:\Mumtaz .Net Module\IIHT Backup\SONAL\25-08-17\IIHT\IIHT\bin\Debug\IIHT.pdb
